@@ -88,7 +88,7 @@
 <a target="_blank" href="mailto:ajaysabal201@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a href="https://www.instagram.com/archived_spark/">
+<a href="https://www.instagram.com/ajaysabal201/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
